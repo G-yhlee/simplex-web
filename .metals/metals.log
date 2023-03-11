@@ -1,0 +1,88 @@
+2023.03.11 16:14:09 INFO  Started: Metals version 0.11.11 in workspace '/Users/yunholee/Documents/git/@js/simplex' for client Visual Studio Code 1.75.1.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/yunholee/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.11 16:14:10 INFO  time: initialize in 0.57s[0m
+2023.03.11 16:14:12 WARN  Build server is not auto-connectable.[0m
+2023.03.11 16:14:12 WARN  no build tool detected in workspace '/Users/yunholee/Documents/git/@js/simplex'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.11 16:14:12 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/components/@pages/blocks/details/BlockDetailView.scala[0m
+2023.03.11 16:14:15 INFO  no build target found for /Users/yunholee/Documents/git/@js/simplex/src/components/@pages/blocks/details/BlockDetailView.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.11 16:14:18 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/components/widgets/board/BoardView.scala[0m
+2023.03.11 16:14:20 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/components/widgets/nav/NavUpdate.scala[0m
+2023.03.11 16:14:23 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/components/widgets/search/SearchView.scala[0m
+2023.03.11 16:14:26 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/components/widgets/table/@common/commonBlockTable.scala[0m
+2023.03.11 16:14:30 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/components/widgets/table/block/blockDetailTable.scala[0m
+2023.03.11 16:14:34 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/components/widgets/table/dashboard/dashBoardTableView.scala[0m
+2023.03.11 16:14:36 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/components/widgets/table/transaction/inputOutput.scala[0m
+2023.03.11 16:14:39 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Init.scala[0m
+2023.03.11 16:14:47 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Model.scala[0m
+2023.03.11 16:14:48 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Init.scala[0m
+2023.03.11 16:14:52 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Init copy.scala[0m
+2023.03.11 16:15:02 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Model.scala[0m
+2023.03.11 16:15:08 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Model copy.scala[0m
+2023.03.11 16:15:18 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Model copy.scala[0m
+2023.03.11 16:15:22 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Init copy.scala[0m
+2023.03.11 16:15:22 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Model copy.scala[0m
+2023.03.11 16:15:22 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Init copy.scala[0m
+2023.03.11 16:15:24 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Msg copy.scala[0m
+2023.03.11 16:15:38 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Msg.scala[0m
+2023.03.11 16:15:42 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Msg.scala[0m
+2023.03.11 16:15:43 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Subscription copy.scala[0m
+2023.03.11 16:15:46 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Subscription.scala[0m
+2023.03.11 16:15:51 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Subscription copy.scala[0m
+2023.03.11 16:15:59 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Subscription copy.scala[0m
+2023.03.11 16:16:00 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Update copy.scala[0m
+2023.03.11 16:16:16 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Update.scala[0m
+2023.03.11 16:16:16 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Update copy.scala[0m
+2023.03.11 16:16:19 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/Update.scala[0m
+2023.03.11 16:16:24 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/View copy.scala[0m
+2023.03.11 16:16:28 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/View copy.scala[0m
+2023.03.11 16:16:29 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/View.scala[0m
+2023.03.11 16:16:56 INFO  Shutting down server[0m
+2023.03.11 16:16:56 INFO  shutting down Metals[0m
+2023.03.11 16:16:56 INFO  Exiting server[0m
+2023.03.11 16:17:05 INFO  Started: Metals version 0.11.11 in workspace '/Users/yunholee/Documents/git/@js/simplex' for client Visual Studio Code 1.75.1.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/yunholee/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.11 16:17:06 INFO  time: initialize in 0.61s[0m
+2023.03.11 16:17:08 WARN  Build server is not auto-connectable.[0m
+2023.03.11 16:17:08 WARN  no build tool detected in workspace '/Users/yunholee/Documents/git/@js/simplex'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.11 16:17:08 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Init copy.scala[0m
+2023.03.11 16:17:08 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Model copy.scala[0m
+2023.03.11 16:17:11 INFO  no build target found for /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Init copy.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.11 16:20:57 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Model copy.scala[0m
+2023.03.11 16:21:05 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/View copy.scala[0m
+2023.03.11 16:21:07 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/View copy.scala[0m
+2023.03.11 16:21:08 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Msg.scala[0m
+2023.03.11 16:21:10 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Msg.scala[0m
+2023.03.11 16:21:13 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Init copy.scala[0m
+2023.03.11 16:21:13 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Subscription copy.scala[0m
+2023.03.11 16:21:15 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/controllers/_/Subscription copy.scala[0m
+2023.03.11 16:21:42 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/routes/dom.scala[0m
+2023.03.11 16:21:44 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/routes/log.scala[0m
+2023.03.11 16:22:54 INFO  Shutting down server[0m
+2023.03.11 16:22:54 INFO  shutting down Metals[0m
+2023.03.11 16:22:54 INFO  Exiting server[0m
+2023.03.11 16:23:53 INFO  Started: Metals version 0.11.11 in workspace '/Users/yunholee/Documents/git/@js/simplex' for client Visual Studio Code 1.75.1.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/yunholee/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.11 16:23:54 INFO  time: initialize in 0.55s[0m
+2023.03.11 16:23:55 WARN  Build server is not auto-connectable.[0m
+2023.03.11 16:23:55 WARN  no build tool detected in workspace '/Users/yunholee/Documents/git/@js/simplex'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.11 16:23:55 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/routes/dom.scala[0m
+2023.03.11 16:23:59 INFO  no build target found for /Users/yunholee/Documents/git/@js/simplex/src/routes/dom.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.11 16:24:00 INFO  time: code lens generation in 4.94s[0m
+2023.03.11 16:36:12 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/routes/dom.scala[0m
+2023.03.11 16:39:11 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/routes/log.scala[0m
+2023.03.11 16:39:16 WARN  no build target for: /Users/yunholee/Documents/git/@js/simplex/src/routes/dom.scala[0m
